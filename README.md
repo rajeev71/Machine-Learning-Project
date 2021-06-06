@@ -1,2 +1,3 @@
 # Machine-Learning-Project
-Project done during AIAC Course
+
+Personal project worked on it .
